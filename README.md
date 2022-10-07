@@ -7,6 +7,10 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 * Deliverable 1: Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 
+Q1: 
+
+![MechaCar Lm Sum](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/15fc4157ce10ad85dcc143a8da5df85fcc5baf64/Screenshot%20(19).png)
+
 * Deliverable 2: Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 
 * Deliverable 3: Run t-tests to determine if the manufacturing lots are statistically different from the mean population
