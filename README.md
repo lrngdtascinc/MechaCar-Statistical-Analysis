@@ -11,6 +11,8 @@ Q1: Which Variables/Coefficients provided a non-random amount of variance to the
 
 ![MechaCar Lm Sum](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/15fc4157ce10ad85dcc143a8da5df85fcc5baf64/Screenshot%20(19).png)
 
+A1: When looking at the MechaCar Linear Model Summary, we can see that vehicle length, ground clearance, and are statistically unlikely to provide random amounts of variance, meaning that vehicle length, and ground clearance have an impact on a cars gas milage.
+
 * Deliverable 2: Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 
 * Deliverable 3: Run t-tests to determine if the manufacturing lots are statistically different from the mean population
