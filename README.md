@@ -13,6 +13,10 @@ Q1: Which Variables/Coefficients provided a non-random amount of variance to the
 
 A1: When looking at the MechaCar Linear Model Summary, we can see that vehicle length, ground clearance, and are statistically unlikely to provide random amounts of variance, meaning that vehicle length, and ground clearance have an impact on a cars gas milage.
 
+Q2: Is the slope of the linear model considered to be zero? Why or why not?
+
+A1: The intercept is less than 0.05 which means that it is statistically significant 
+
 * Deliverable 2: Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 
 * Deliverable 3: Run t-tests to determine if the manufacturing lots are statistically different from the mean population
