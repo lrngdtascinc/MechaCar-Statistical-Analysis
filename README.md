@@ -15,9 +15,14 @@ A1: When looking at the MechaCar Linear Model Summary, we can see that vehicle l
 
 Q2: Is the slope of the linear model considered to be zero? Why or why not?
 
-A1: The intercept is less than 0.05 which means that it is statistically significant 
+A2: The intercept is less than 0.05 which means that it is statistically significant. This means that the dependent variables have a high amount of variability and that the independdnt variables are equal to zero. To further test the predictability, we could scale up the significant features like the vehicle weight and ground clearance.  
+Q3: Does this linear model predict the mpg of MechaCar prototypes? Why or why not?
+
+A3: Yes, considering the multiple R-squared value is 0.71, and the p-value is pretty small, we can say that the linear model does a good job at predicting mpg for MechaCar prototypes. 
 
 * Deliverable 2: Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+
+![Suspension Coil PSI Variance]()
 
 * Deliverable 3: Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
