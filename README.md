@@ -24,7 +24,7 @@ A3: Yes, considering the multiple R-squared value is 0.71, and the p-value is pr
 
 ![Suspension Coil PSI Variance](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/e0ecb87216d8353f3f597633d6869375359dec1b/Screenshot%20(20).png)
 
-![SC Lot Sum]()
+![SC Lot Sum](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/f49e35de77c71c7a0c8c62b76120b5f53b08b35b/Screenshot%20(21).png)
 
 D2_Q1: The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
