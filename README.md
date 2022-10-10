@@ -22,7 +22,7 @@ A3: Yes, considering the multiple R-squared value is 0.71, and the p-value is pr
 
 * Deliverable 2: Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 
-![Suspension Coil PSI Variance]()
+![Suspension Coil PSI Variance](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/e0ecb87216d8353f3f597633d6869375359dec1b/Screenshot%20(20).png)
 
 * Deliverable 3: Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
