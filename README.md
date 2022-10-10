@@ -41,6 +41,6 @@ D2_A1: In total the specifications are 62.29 which is definitely less than 100, 
 
 ### Lot 3 T.test
 
-![lot3 ttest]()
+![lot3 ttest](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/acbc2dc463dd2406abe44514dd0003333af5d93f/Screenshot%20(24).png)
 
 * Deliverable 4: Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
