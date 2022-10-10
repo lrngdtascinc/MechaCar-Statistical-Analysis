@@ -37,7 +37,7 @@ D2_A1: In total the specifications are 62.29 which is definitely less than 100, 
 
 ### Lot 2 T.test
 
-![lot2 ttest]()
+![lot2 ttest](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/02bfa63f4efc978bf21fc26b96b1622399a04921/Screenshot%20(23).png)
 
 ### Lot 3 T.test
 
