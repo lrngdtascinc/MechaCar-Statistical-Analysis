@@ -31,15 +31,14 @@ D2_Q1: The design specifications for the MechaCar suspension coils dictate that 
 D2_A1: In total the specifications are 62.29 which is definitely less than 100, and if we're checking by lot, lots 1 and 2 fall within the specifications, but lot 3 has a variance that exceeds the specification. 
 
 * Deliverable 3: Run t-tests to determine if the manufacturing lots are statistically different from the mean population
-### Lot 1 T.test
-
+### Lot 1 T.test (Lot 1 is NOT significantly different from the population mean with a P-value of 1)
 ![lot1 ttest](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/75e93cb5ac636114955834951350ac6a1aa03077/Screenshot%20(22).png)
 
-### Lot 2 T.test
+### Lot 2 T.test (Lot 2 is NOT significantly different from the population mean with a P-value of 0.61)
 
 ![lot2 ttest](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/02bfa63f4efc978bf21fc26b96b1622399a04921/Screenshot%20(23).png)
 
-### Lot 3 T.test
+### Lot 3 T.test (Lot 3 IS significantly different from the population mean with a P-value of 0.042)
 
 ![lot3 ttest](https://github.com/lrngdtascinc/MechaCar-Statistical-Analysis/blob/acbc2dc463dd2406abe44514dd0003333af5d93f/Screenshot%20(24).png)
 
